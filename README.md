@@ -1,2 +1,3 @@
 # QA
-All my Quality Assurance related files
+Hi there!
+Wellcome to my Quality Assurance environment.
