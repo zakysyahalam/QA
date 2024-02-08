@@ -1,3 +1,3 @@
 # QA
-Hi there!
-Wellcome to my Quality Assurance environment.
+Hi there!\n
+Welcome to my Quality Assurance environment.
