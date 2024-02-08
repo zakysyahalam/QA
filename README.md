@@ -1,4 +1,4 @@
-# QA
+# Quality Assurance
 Hi there! Welcome to my Quality Assurance environment.
 
 ![Zaky Syah Alam-resume-2-1](https://github.com/zakysyahalam/QA/assets/66183876/2a4d0f02-fda5-42a1-b071-4e52c2d4abda)
