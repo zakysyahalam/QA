@@ -3,5 +3,4 @@ Hi there! Welcome to my Quality Assurance environment!
 
 I'm still working on it. Anyway, if you'd like to know me more, below is my resume.
 
-![Zaky Syah Alam-resume-2-1](https://github.com/zakysyahalam/QA/assets/66183876/2a4d0f02-fda5-42a1-b071-4e52c2d4abda)
-![Zaky Syah Alam-resume-2-2](https://github.com/zakysyahalam/QA/assets/66183876/9ea78b42-982d-43e6-929c-9c01c879ef99)
+![Zaky Syah Alam-resume-2-1](https://github.com/zakysyahalam/QA/blob/d2383bf5bb4c32508e74921649681d0d31318d9b/Zaky%20Syah%20Alam_Resume%2019%20Mei%202024.pdf)
